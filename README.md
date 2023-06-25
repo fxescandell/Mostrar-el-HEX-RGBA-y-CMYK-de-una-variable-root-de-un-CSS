@@ -6,7 +6,7 @@ El plugin **"Muestra el HEX el RGBA y el CMYK de una variable"** proporciona una
 
 ## Instalación
 
-1. Descarga el archivo del plugin desde [aquí](enlace_al_archivo_del_plugin).
+1. Descarga el archivo del plugin desde [aquí](https://github.com/fxescandell/Mostrar-el-HEX-RGBA-y-CMYK-de-una-variable-root-de-un-CSS).
 2. Sube el archivo del plugin a la carpeta `wp-content/plugins` de tu instalación de WordPress.
 3. Activa el plugin desde el panel de administración de WordPress.
 
@@ -57,8 +57,8 @@ Este plugin fue creado por Francesc Xavier Escandell.
 
 ## Contribuciones
 
-Si deseas contribuir al desarrollo de este plugin, puedes hacerlo a través del repositorio [aquí](enlace_al_repositorio).
+Si deseas contribuir al desarrollo de este plugin, puedes hacerlo a través del repositorio [aquí](https://github.com/fxescandell/Mostrar-el-HEX-RGBA-y-CMYK-de-una-variable-root-de-un-CSS).
 
 ## Soporte
 
-Si tienes algún problema o pregunta sobre este plugin, puedes contactar al autor [aquí](enlace_de_contacto).
+Si tienes algún problema o pregunta sobre este plugin, puedes contactar al autor [aquí](https://escandell.cat).
